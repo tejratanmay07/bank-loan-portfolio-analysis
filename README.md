@@ -30,12 +30,11 @@ The objective was to build a comprehensive loan reporting system capable of moni
 - Average DTI
 - Loan Status Analysis
 
-## Business Insights
+## Business Impact
 
-- Identified portfolio health through Good vs Bad Loan analysis.
-- Evaluated lending performance across states.
-- Analyzed repayment trends.
-- Measured month-over-month growth.
+This project demonstrates how SQL-based analytics can be used to monitor lending performance, identify portfolio risks, track repayment behavior, and support data-driven financial decision-making.
+
+The reporting system enables stakeholders to evaluate loan health, monitor key performance indicators, and identify lending trends across regions and customer segments.
 
 ## Repository Structure
 
