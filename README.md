@@ -1,37 +1,50 @@
 # Bank Loan Portfolio Analysis
 
-## Project Overview
+## Overview
 
-This project analyzes banking loan data using SQL to evaluate loan portfolio performance, borrower behavior, repayment trends, and financial risk indicators.
+This project analyzes banking loan data using SQL and business intelligence techniques to evaluate portfolio performance, borrower behavior, repayment trends, and risk indicators.
 
-The objective was to create a comprehensive reporting system that enables stakeholders to monitor loan applications, funded amounts, repayments, interest rates, debt-to-income ratios, and overall portfolio health.
+## Problem Statement
+
+The objective was to build a comprehensive loan reporting system capable of monitoring:
+
+- Loan Applications
+- Funded Amount
+- Amount Received
+- Interest Rate
+- Debt-to-Income Ratio
+- Good Loan vs Bad Loan Performance
 
 ## Technologies Used
 
-* SQL
-* MySQL
-* Excel
-* Data Analysis
+- SQL
+- MySQL
+- Excel
 
-## Key Business Metrics
+## Key KPIs
 
-* Total Loan Applications
-* Funded Amount Analysis
-* Amount Received Analysis
-* Average Interest Rate
-* Debt-to-Income Ratio
-* Good Loan vs Bad Loan Analysis
-* Loan Status Monitoring
+- Total Loan Applications
+- Funded Amount
+- Amount Received
+- Average Interest Rate
+- Average DTI
+- Loan Status Analysis
 
-## Key Insights
+## Business Insights
 
-* Identified high-performing loan segments.
-* Evaluated loan repayment behavior.
-* Measured portfolio risk through bad-loan analysis.
-* Analyzed regional lending trends.
-* Monitored month-over-month loan growth.
+- Identified portfolio health through Good vs Bad Loan analysis.
+- Evaluated lending performance across states.
+- Analyzed repayment trends.
+- Measured month-over-month growth.
 
-## Business Impact
+## Repository Structure
 
-The project demonstrates how SQL-driven analytics can support lending decisions, risk management, and portfolio monitoring in the banking industry.
+Dataset/
+SQL Queries/
+Dashboard Screenshots/
+Documentation/
+
+## Author
+
+Tanmay Tejra
 
