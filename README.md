@@ -41,7 +41,6 @@ The objective was to build a comprehensive loan reporting system capable of moni
 
 Dataset/
 SQL Queries/
-Dashboard Screenshots/
 Documentation/
 
 ## Author
